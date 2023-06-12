@@ -1,0 +1,11 @@
+{
+  "name": "tp4-jaqueline-atienza",
+  "version": "1.0.0",
+  "description": "trabajo practico de taller de lenguaje de  programacion I ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jaqueline Atienza",
+  "license": "ISC"
+}
